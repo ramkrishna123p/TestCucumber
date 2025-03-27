@@ -1,8 +1,8 @@
-D:\Eclipse\cucumber\src\main\java\StepDefinations\amazonPageConstants.java
-D:\Eclipse\cucumber\src\main\java\StepDefinations\LocatorType.java
-D:\Eclipse\cucumber\src\main\java\StepDefinations\PropertiesUtil.java
-D:\Eclipse\cucumber\src\main\java\StepDefinations\propertiesFile.java
-D:\Eclipse\cucumber\src\main\java\StepDefinations\genericdefinations.java
-D:\Eclipse\cucumber\src\main\java\StepDefinations\Hooks.java
-D:\Eclipse\cucumber\src\main\java\StepDefinations\extentReportConfig.java
-D:\Eclipse\cucumber\src\main\java\StepDefinations\cucumberTest.java
+C:\Users\Admin\TestCucumber\src\main\java\StepDefinations\genericdefinations.java
+C:\Users\Admin\TestCucumber\src\main\java\StepDefinations\propertiesFile.java
+C:\Users\Admin\TestCucumber\src\main\java\StepDefinations\Hooks.java
+C:\Users\Admin\TestCucumber\src\main\java\StepDefinations\amazonPageConstants.java
+C:\Users\Admin\TestCucumber\src\main\java\StepDefinations\cucumberTest.java
+C:\Users\Admin\TestCucumber\src\main\java\StepDefinations\PropertiesUtil.java
+C:\Users\Admin\TestCucumber\src\main\java\StepDefinations\LocatorType.java
+C:\Users\Admin\TestCucumber\src\main\java\StepDefinations\extentReportConfig.java

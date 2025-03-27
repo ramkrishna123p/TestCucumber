@@ -16,6 +16,6 @@ Feature: amazon Login and Logout
     
     Examples:
     | UserName | Password | User |
-    | shivamca123@gmail.com | Yanna@13579 | Venkat |
+    | shivamca123@gmail.com | jhgert@13579 | Venkat |
     | ramkrishnareddymvs@gmail.com|Kanna@13579|ram|
  

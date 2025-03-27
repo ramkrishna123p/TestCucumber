@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: amazon Login and Logout
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 24.169 sec <<< FAILURE! - in amazon Login and Logout
-Login into amazon and LogOut #1(amazon Login and Logout)  Time elapsed: 13.048 sec  <<< ERROR!
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 47.515 sec <<< FAILURE! - in amazon Login and Logout
+Login into amazon and LogOut #1(amazon Login and Logout)  Time elapsed: 32.407 sec  <<< ERROR!
 org.openqa.selenium.NoSuchSessionException: 
 invalid session id: session deleted as the browser has closed the connection
 from disconnected: not connected to DevTools
@@ -10,11 +10,11 @@ from disconnected: not connected to DevTools
 Build info: version: '4.10.0', revision: 'c14d967899'
 System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [15e7b66d30b71a2cb607b8108cb91712, maximizeCurrentWindow {}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.166, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49377}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49377/devtoo..., se:cdpVersion: 134.0.6998.166, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 15e7b66d30b71a2cb607b8108cb91712
+Command: [2fd85a2752cac61dee79a9ea0702f8bf, maximizeCurrentWindow {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.166, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57348}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57348/devtoo..., se:cdpVersion: 134.0.6998.166, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2fd85a2752cac61dee79a9ea0702f8bf
 
-Login into amazon and LogOut #2(amazon Login and Logout)  Time elapsed: 11.121 sec  <<< ERROR!
+Login into amazon and LogOut #2(amazon Login and Logout)  Time elapsed: 15.107 sec  <<< ERROR!
 org.openqa.selenium.NoSuchElementException: 
 no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='nav-tools']/descendant::div[2]/span"}
   (Session info: chrome=134.0.6998.166)
@@ -22,7 +22,7 @@ For documentation on this error, please visit: https://www.selenium.dev/document
 Build info: version: '4.10.0', revision: 'c14d967899'
 System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [56e0ea971c58c059c057120b476301ad, findElement {using=xpath, value=//div[@id='nav-tools']/descendant::div[2]/span}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.166, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49399}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49399/devtoo..., se:cdpVersion: 134.0.6998.166, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 56e0ea971c58c059c057120b476301ad
+Command: [6b829f81799ef255ae6e4a9c8f4ff3e6, findElement {using=xpath, value=//div[@id='nav-tools']/descendant::div[2]/span}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.166, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57370}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57370/devtoo..., se:cdpVersion: 134.0.6998.166, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b829f81799ef255ae6e4a9c8f4ff3e6
 
